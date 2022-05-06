@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="D:\PROJECT_SDK\WM_SDK_W806_adc_mult\tools\W806\projects\SDK_Project\project\CDK_WS\CDK_WS.cdkws">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="D:\PROJECT_SDK\WM_SDK_W806_adc_mult\tools\W806\projects\SDK_Project\project\CDK_WS\CDK_WS.cdkws" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="D:\PROJECT_SDK\WM_SDK_W806_adc_mult\app\src\main.c" Name="FileName"/>
+      <wxString Value="W806_SDK" Name="ProjectName"/>
+      <int Value="30" Name="FirstVisibleLine"/>
+      <int Value="62" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="d:\project_sdk\wm_sdk_w806_adc_mult\include\driver\wm_hal.h" Name="FileName"/>
+      <wxString Value="W806_SDK" Name="ProjectName"/>
+      <int Value="1" Name="FirstVisibleLine"/>
+      <int Value="17" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="d:\project_sdk\wm_sdk_w806_adc_mult\include\driver\wm_adc.h" Name="FileName"/>
+      <wxString Value="W806_SDK" Name="ProjectName"/>
+      <int Value="43" Name="FirstVisibleLine"/>
+      <int Value="50" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
